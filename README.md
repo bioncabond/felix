@@ -1,3 +1,5 @@
+## Lab 29 - Use the Djangox Template! 
+
 > A batteries-included Django starter project. For a production-ready version see the book [Django for Professionals](https://djangoforprofessionals.com).
 
 ## 🚀 Features

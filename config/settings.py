@@ -33,6 +33,8 @@ INSTALLED_APPS = [
     # Local
     'accounts',
     'pages',
+    'felix'
+  
 ]
 
 # MIDDLEWARE
@@ -171,3 +173,4 @@ ACCOUNT_USERNAME_REQUIRED = False
 ACCOUNT_AUTHENTICATION_METHOD = 'email'
 ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_UNIQUE_EMAIL = True
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
